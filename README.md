@@ -115,7 +115,7 @@ bayesNet.doLikelihoodWeighting(TOTAL_SAMPLE = 10000, verbose = False)
 
 ## Sample File
 
-`
+```
 5, B, E, A, J, M
 B, +b, -b
 E, +e, -e
@@ -148,4 +148,4 @@ M | A
 -a, +m, 0.01
 -a, -m, 0.99
 Query: P( B=+b| J=+j)
-`
+```
