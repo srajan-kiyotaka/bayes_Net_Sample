@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "bayes_nets_sample",
+name = "bayes_nets_sample"
 version = "0.1"
 authors = [
   { name="Srajan Chourasia", email="srajanstark.ash@gmail.com" },
