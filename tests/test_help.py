@@ -2,7 +2,11 @@
 ### run the following command:
 
 import unittest
-from bayesNets.bayesNets import BayesNets
+from bayesNetsSample import BayesNets
 
-if __name__ == 'main':
-    help(BayesNets)
+class TestHelp(unittest.TestCase):
+
+	def test_help(self):
+		help(BayesNets)
+
+unittest.main()
