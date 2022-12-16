@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "bayes_nets_sample",
+version = "0.1"
+authors = [
+  { name="Srajan Chourasia", email="srajanstark.ash@gmail.com" },
+]
+description = "A class to represent a Bayes Network. And apply all the different sampling strategies to the calculate a given query."
+readme = "README.md"
+requires-python = ">=3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/srajan-kiyotaka/bayesNetSample"
+"Bug Tracker" = "https://github.com/srajan-kiyotaka/bayesNetSample/issues"
