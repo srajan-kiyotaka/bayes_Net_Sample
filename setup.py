@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'bayes_nets_sample',
-    version = '0.1',
+    version = '0.2',
     license = 'MIT',
     description = 'A class to represent a Bayes Network. And apply all the different sampling strategies to the calculate a given query.',
     author = "Srajan Chourasia",
