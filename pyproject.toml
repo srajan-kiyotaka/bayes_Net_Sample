@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "bayes_nets_sample"
-version = "0.3"
+version = "0.6"
 authors = [
   { name="Srajan Chourasia", email="srajanstark.ash@gmail.com" },
 ]

@@ -2,7 +2,7 @@
 ### run the following command:
 
 import unittest
-from bayesNetsSample import BayesNets
+from bayes import BayesNets
 
 class TestHelp(unittest.TestCase):
 

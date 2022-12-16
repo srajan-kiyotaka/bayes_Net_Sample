@@ -3,16 +3,16 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'bayes_nets_sample',
-    version = '0.2',
+    version = '0.6',
     license = 'MIT',
     description = 'A class to represent a Bayes Network. And apply all the different sampling strategies to the calculate a given query.',
     author = "Srajan Chourasia",
     author_email = 'srajanstark.ash@gmail.com',
-    packages = find_packages('src'),
-    package_dir = {'': 'src'},
+    packages = find_packages('bayes'),
+    package_dir = {'': 'bayes'},
     url = 'https://github.com/srajan-kiyotaka/bayesNetSample',
     download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
-    keywords = ['BayesNets'],
+    keywords = ['bayes'],
     install_requires = [
           'random',
       ],
