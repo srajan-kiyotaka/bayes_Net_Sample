@@ -7,6 +7,6 @@ from bayes import BayesNets
 class TestHelp(unittest.TestCase):
 
 	def test_help(self):
-		help(BayesNets)
+		print(help(BayesNets))
 
 unittest.main()
