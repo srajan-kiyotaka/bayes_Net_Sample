@@ -1,6 +1,6 @@
-<H1><center>
-    Bayes Nets and Sampling
-</center></H1>
+<H1>
+Bayes Nets and Sampling
+</H1>
 
 ## About: 
 
