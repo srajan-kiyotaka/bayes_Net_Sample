@@ -2,7 +2,7 @@
 ### run the following command:
 
 import unittest
-from bayesNets import bayesNets
+from bayesNets.bayesNets import BayesNets
 
-if __main__ == 'main':
-    help(bayesNets.BayesNets)
+if __name__ == 'main':
+    help(BayesNets)
